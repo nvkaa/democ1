@@ -19,6 +19,14 @@ nav > ul {
     height: 5rem;
 }
 
+#skip {
+    visibility: hidden;
+}
+
+#skip:focus {
+    visibility: visible;
+}
+
 a {
     text-decoration: none;
     color: #D1477A; 
