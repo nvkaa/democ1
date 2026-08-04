@@ -66,6 +66,27 @@ main ul li {
     grid-column: 2;
 }
 
+#fbsub {
+    margin-left: 2rem;
+}
+
+#burbn {
+    display: block;
+    margin: 0 auto;
+}
+
+#igsub {
+    text-align: center;
+}
+
+#igsublogo {
+    float: left; 
+    margin-right: 10px;
+    margin-bottom: 5px; 
+    width: 50px; 
+    height: auto;
+}
+
 footer {
     background-color: #FFE4E1;
     height: 5rem;
